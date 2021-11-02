@@ -3,3 +3,7 @@ body {
   margin: 30px;
   padding: 20px;
 }
+
+ul {
+  border: 1px solid red;
+}
